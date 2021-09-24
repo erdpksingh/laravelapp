@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel App Deepak testing
+                    Laravel App Deepak testing job
                 </div>
 
                 <div class="links">
